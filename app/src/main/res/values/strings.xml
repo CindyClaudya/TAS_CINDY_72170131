@@ -1,0 +1,10 @@
+<resources>
+    <string name="CRUD_Mahasiswa">TAS_CINDY_72170131</string>
+
+    <string name="hint_name">Full Name</string>
+    <string name="hint_nim">Nim</string>
+    <string name="hint_email">Email</string>
+    <string name="btn_alamat">Alamat</string>
+    <string name="Foto">Link Foto</string>
+
+</resources>
